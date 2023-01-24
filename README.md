@@ -17,29 +17,29 @@ _**Tools**_: Python, Javascript, CSS, React, Flask
 
 ## Methods
 ____**TF-IDF**____<br />
-* &emsp;Transform texts (news titles) into a meaningful representation of numbers while removing stopwords.
+* Transform texts (news titles) into a meaningful representation of numbers while removing stopwords.
 
 __**SMOTE**__<br />
-* &emsp;Before SMOTE was used, the model was good at detecting real news (shown by very high True Positive score),<br /> 
-&emsp;while performing poorly at detecting fake news (shown by low True Negative score).<br /> 
+* Before SMOTE was used, the model was good at detecting real news (shown by very high True Positive score),<br /> 
+while performing poorly at detecting fake news (shown by low True Negative score).<br /> 
 
-* &emsp;SMOTE tweaks the model to reduce False Negatives, at the cost of increasing False Positives.<br /> 
-* &emsp;The result of using SMOTE is generally an increase in recall, at the cost of lower precision.
+* SMOTE tweaks the model to reduce False Negatives, at the cost of increasing False Positives.<br /> 
+* The result of using SMOTE is generally an increase in recall, at the cost of lower precision.
 
 __**Naive Bayes**__<br />
-* &emsp;Naive Bayes is an algorithm based on the Bayes Theorem and is widely used for classification <br /> 
-&emsp;and Natural Language Processing (NLP) tasks.
+* Naive Bayes is an algorithm based on the Bayes Theorem and is widely used for classification <br /> 
+and Natural Language Processing (NLP) tasks.
 
 __**Logistic Regression**__<br />
-* &emsp;Logistic regression classifier is used for modeling the probability of a discrete outcome given an input variable.
+* Logistic regression classifier is used for modeling the probability of a discrete outcome given an input variable.
 
 __**Support Vector Machine**__<br />
-* &emsp;SVM algorithm finds a hyperplane in an N-dimensional   
-&emsp;space(the number of features) that distinctly classifies the data points.
+* SVM algorithm finds a hyperplane in an N-dimensional   
+space(the number of features) that distinctly classifies the data points.
 
 __**XGBoost**__<br />
-* &emsp;XGBoost is based on the gradient boosted trees algorithm, which is a supervised learning algorithm,<br /> 
-&emsp;which attempts to accurately predict a target variable by combining the estimates of a set of simpler, weaker models.
+* XGBoost is based on the gradient boosted trees algorithm, which is a supervised learning algorithm.<br /> 
+* It attempts to predict a target variable by combining the estimates of a set of simpler models.
 
 
 ## Result
