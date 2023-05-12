@@ -14,6 +14,21 @@ _**Tools**_: Python, Javascript, CSS, React, Flask
 * _**gossipcop_fake.csv**_ - fake news collected from GossipCop/ 5323 rows, 4 columns 
 * _**gossipcop_real.csv**_ - real news collected from GossipCop/ 16817 rows, 4 columns 
 
+## Methods
+____**Exploratory Data Analysis**____<br />
+Find most common words of each dataset for further analysis. <br />
+
+**Gossip Cop Dataset** 
+
+<img width="471" alt="GC_RN" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/976eb157-ec00-4dac-83ca-c9e8ab2da5da"> 
+<img width="471" alt="GC_FN" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/d1e827cf-c9e2-4f74-bd87-435245fd4325">
+
+**Politifact Dataset** 
+
+<img width="454" alt="PF_TN" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/19971e51-ffb4-475b-b48e-abbb9dc1c862">
+<img width="454" alt="PF_RN" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/aac9e9af-d3a0-4c4e-b426-6edcc1534db0">
+
+
 
 ## Methods
 ____**TF-IDF**____<br />
