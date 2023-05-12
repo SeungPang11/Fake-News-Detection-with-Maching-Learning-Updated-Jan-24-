@@ -14,9 +14,8 @@ _**Tools**_: Python, Javascript, CSS, React, Flask
 * _**gossipcop_fake.csv**_ - fake news collected from GossipCop/ 5323 rows, 4 columns 
 * _**gossipcop_real.csv**_ - real news collected from GossipCop/ 16817 rows, 4 columns 
 
-## Methods
-____**Exploratory Data Analysis**____<br />
-Find most common words of each dataset for further analysis. <br />
+## Exploratory Data Analysis
+____**Find most common words of each dataset for further analysis**____<br />
 
 **Gossip Cop Dataset** 
 
