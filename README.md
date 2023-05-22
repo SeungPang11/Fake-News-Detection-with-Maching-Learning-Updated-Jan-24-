@@ -7,15 +7,15 @@ _**Tools**_: Python, Javascript, CSS, React, Flask
 
 
 ## Datasets
-**[Fake News Net](https://github.com/KaiDMML/FakeNewsNet)** was used to experiment with the news content datasets and <br /> improve the accuracy and the challenges of imbalanced dataset while utilizing Maching Learning techniques. <br />
+**[Fake News Net](https://github.com/KaiDMML/FakeNewsNet)** <br />
 
-* _**politifact_fake.csv**_ - fake news collected from Politifact/ 432 rows, 4 columns 
-* _**politifact_real.csv**_ - real news collected from Politifact/ 624 rows, 4 columns 
-* _**gossipcop_fake.csv**_ - fake news collected from GossipCop/ 5323 rows, 4 columns 
-* _**gossipcop_real.csv**_ - real news collected from GossipCop/ 16817 rows, 4 columns 
+* _**politifact_fake.csv**_ - 432 fake news collected from Politifact 
+* _**politifact_real.csv**_ - 624 real news collected from Politifact 
+* _**gossipcop_fake.csv**_ - 5323 fake news collected from GossipCop
+* _**gossipcop_real.csv**_ - 16817 real news collected from GossipCop
 
 ## Exploratory Data Analysis
-____**Find most common words of each dataset for further analysis**____<br />
+____**Find most frequent words of each dataset for further analysis**____<br />
 
 **Gossip Cop Dataset** 
 
@@ -34,10 +34,11 @@ ____**TF-IDF**____<br />
 * Transform texts (news titles) into a meaningful representation of numbers while removing stopwords.
 
 __**SMOTE**__<br />
-* Before SMOTE was used, the model was good at detecting real news (shown by very high True Positive score),<br /> 
+* Before SMOTE, the model was good at detecting real news (shown by high True Positive score),<br /> 
 while performing poorly at detecting fake news (shown by low True Negative score).<br /> 
 
-* SMOTE tweaks the model to reduce False Negatives, at the cost of increasing False Positives.<br /> 
+* SMOTE is used to tweak the model to reduce False Negatives, at the cost of increasing False Positives.<br /> 
+
 * The result of using SMOTE is generally an increase in recall, at the cost of lower precision.
 
 __**Naive Bayes**__<br />
@@ -48,8 +49,7 @@ __**Logistic Regression**__<br />
 * Logistic regression classifier is used for modeling the probability of a discrete outcome given an input variable.
 
 __**Support Vector Machine**__<br />
-* SVM algorithm finds a hyperplane in an N-dimensional   
-space(the number of features) that distinctly classifies the data points.
+* SVM algorithm finds a hyperplane in an N-dimensional space(the number of features) that distinctly classifies the data points.
 
 __**XGBoost**__<br />
 * XGBoost is based on the gradient boosted trees algorithm, which is a supervised learning algorithm.<br /> 
