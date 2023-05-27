@@ -62,7 +62,12 @@ __**XGBoost**__<br />
 the F1 score improved from **0.63 to 0.65**.
 * FakeNewsNet’s F1 scores for GossipCop dataset are higher due to the greater number of real news compared to the number of fake news.
 
+* Final Performance of This Project
 <img width="600" alt="Screen Shot 2023-01-24 at 10 04 40 AM" src="https://user-images.githubusercontent.com/67944800/214330043-f01df4ae-e13d-4e4d-ad3e-0f1fc33a6ccb.png">
+
+* Performance of the Previous Research<br />
+<img width="600" alt="Screen Shot 2023-01-01 at 11 38 23 AM copy" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/0f25ebec-6e85-463c-98b7-b82e4806ceba">
+
 
 
 
