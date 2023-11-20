@@ -1,6 +1,6 @@
 # Fake-News-Detection-with-Maching-Learning
 _**Techniques**_: Naive Bayes, Logistics Regression, SVM, XGBoost, TF-IDF, SMOTE <br />
-_**Tools**_: Python, Javascript, CSS, React, Flask
+_**Tools**_: Python, Javascript, CSS, React, Flask 
 
 **Web Application Development - Python, Javascript, CSS, React, Flask**
 <img width="595" alt="Screen Shot 2023-01-20 at 10 21 10 AM" src="https://user-images.githubusercontent.com/67944800/214330280-93545534-3546-4fb9-af83-986c1ac6a820.png">
