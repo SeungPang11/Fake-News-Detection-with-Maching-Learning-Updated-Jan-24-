@@ -55,8 +55,12 @@ __**XGBoost**__<br />
 * XGBoost is based on the gradient boosted trees algorithm, which is a supervised learning algorithm.<br /> 
 * It attempts to predict a target variable by combining the estimates of a set of simpler models.
 
+## Result - Updated Dec 2023
+*
+*
+*
 
-## Result
+## Previous Result
 * Logistic Regression and Naive Bayes were the best performing models for fake news detection.
 * By combining Politifact and GossipCop datasets then utilizing Logistic Regression and SMOTE, 
 the F1 score improved from **0.63 to 0.65**.
