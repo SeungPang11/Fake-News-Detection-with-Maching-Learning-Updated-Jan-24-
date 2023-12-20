@@ -59,7 +59,7 @@ __**XGBoost**__<br />
 ____________________________________________________
 ## Result - Updated Dec 2023
 * Thorough EDA to visualize word count distributions of news titles
-* Updated text pre-processing to better remove emojis, URLs, special characters, punctuations, emojis, and stop words
+* Updated text pre-processing to better remove emojis, URLs, special characters, punctuations, emojis, and stop words <br>
 * Cross Validation 
 * Comparisons of model performance before imbalance data handling, SMOTE, and SMOTE + Undersampling
 
