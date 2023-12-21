@@ -2,8 +2,9 @@
 _**Techniques**_: Naive Bayes, Logistics Regression, XGBoost, TF-IDF, SMOTE <br />
 _**Tools**_: Python, Javascript, CSS, React, Flask 
 
-**Web Application Development - Python, Javascript, CSS, React, Flask**
-<img width="500" alt="Screen Shot 2023-01-20 at 10 21 10 AM" src="https://user-images.githubusercontent.com/67944800/214330280-93545534-3546-4fb9-af83-986c1ac6a820.png">
+**Web Application - Python, Javascript, CSS, React, Flask**
+
+<img width="400" alt="Screen Shot 2023-01-20 at 10 21 10 AM" src="https://user-images.githubusercontent.com/67944800/214330280-93545534-3546-4fb9-af83-986c1ac6a820.png">
 
 
 ## Datasets
@@ -19,14 +20,14 @@ ____**Find most frequent words of each dataset for further analysis**____<br />
 
 **Gossip Cop Dataset** 
 
-<img width="430" alt="Screen Shot 2023-12-20 at 2 57 35 AM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/3a5ac8b9-70de-4dcd-b1cd-acdc5e8f02a4">
-<img width="430" alt="Screen Shot 2023-12-20 at 2 58 10 AM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/847bbc3f-4e06-49bb-b906-704c5d5d9934">
+<img width="400" alt="Screen Shot 2023-12-20 at 2 57 35 AM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/3a5ac8b9-70de-4dcd-b1cd-acdc5e8f02a4">
+<img width="400" alt="Screen Shot 2023-12-20 at 2 58 10 AM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/847bbc3f-4e06-49bb-b906-704c5d5d9934">
 
 
 **Politifact Dataset** 
 
-<img width="430" alt="Screen Shot 2023-12-20 at 2 58 33 AM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/7a854190-fd8a-4c66-ad20-c02471b721eb">
-<img width="430" alt="Screen Shot 2023-12-20 at 2 58 43 AM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/d5ec138c-5bb5-4788-aa79-d033d9caafad">
+<img width="400" alt="Screen Shot 2023-12-20 at 2 58 33 AM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/7a854190-fd8a-4c66-ad20-c02471b721eb">
+<img width="400" alt="Screen Shot 2023-12-20 at 2 58 43 AM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/d5ec138c-5bb5-4788-aa79-d033d9caafad">
 
 
 ## Methods
@@ -60,8 +61,7 @@ ____________________________________________________
 ## Result - Updated Dec 2023
 * Thorough EDA to visualize word count distributions of news titles
 * Updated text pre-processing to better remove emojis, URLs, special characters, punctuations, and stop words <br>
-* Cross Validation 
-* Comparisons of model performance before imbalance data handling, SMOTE, and SMOTE + Undersampling
+* Cross Validation to evaluate model performance
 
 * **Improved performance**  
   <img width="848" alt="Screen Shot 2023-12-20 at 4 47 45 PM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/289542f6-4c0d-443b-9704-0fe567363884">
