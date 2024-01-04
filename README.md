@@ -1,4 +1,4 @@
-# Fake-News-Detection-with-Maching-Learning
+# Fake-News-Detection-with-Maching-Learning (Updated Jan 2024)
 _**Techniques**_: Naive Bayes, Logistics Regression, XGBoost, TF-IDF, SMOTE <br />
 _**Tools**_: Python, Javascript, CSS, React, Flask 
 
@@ -16,7 +16,7 @@ _**Tools**_: Python, Javascript, CSS, React, Flask
 * _**gossipcop_real.csv**_ - 16817 real news collected from GossipCop
 
 ## Exploratory Data Analysis
-____**Find most frequent words of each dataset for further analysis**____<br />
+____**Word Frequency of each dataset**____<br />
 
 **Gossip Cop Dataset** 
 
@@ -31,6 +31,9 @@ ____**Find most frequent words of each dataset for further analysis**____<br />
 
 
 ## Methods
+____**Feature Engineering**____<br />
+* 
+  
 ____**TF-IDF**____<br />
 * Transform texts (news titles) into a meaningful representation of numbers while removing stopwords.
 
