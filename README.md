@@ -18,13 +18,10 @@ _**Tools**_: Python, Javascript, CSS, React, Flask <br />
 ____**Word Frequency of each dataset**____<br />
 
 **Gossip Cop Dataset** <br />
-<img width="400" alt="Screen Shot 2024-01-04 at 6 24 03 PM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/b11158e7-35aa-48ab-9fba-5a01bc5ac16c"> <br />
-<img width="400" alt="Screen Shot 2024-01-04 at 6 23 47 PM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/b3f2e67d-daba-43e5-8415-309ec39eec62"> <br />
-
+<img width="542" alt="Screen Shot 2024-01-04 at 6 39 46 PM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/b8ec6a70-ad7b-4c35-859e-df88a003bb93"><br />
 
 **Politifact Dataset** <br />
-<img width="400" alt="Screen Shot 2024-01-04 at 6 24 59 PM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/bfca2135-5c86-4388-b1ef-b1630f059c23"><br />
-<img width="400" alt="Screen Shot 2024-01-04 at 6 25 21 PM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/170890fc-6d4a-4d6d-b9c8-3427d60c8428"><br />
+<img width="543" alt="Screen Shot 2024-01-04 at 6 40 08 PM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/cfcba6d8-e34e-4454-8eda-e4124ebc0a94"> <br />
 
 <img width="400" alt="Screen Shot 2024-01-04 at 6 25 41 PM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/7c5a5ab9-f256-465a-b2f9-e2ad75a212aa">
 
