@@ -1,10 +1,9 @@
 # Fake-News-Detection-with-Maching-Learning (Updated Jan 2024)
 _**Techniques**_: Naive Bayes, Logistics Regression, XGBoost, TF-IDF, SMOTE <br />
-_**Tools**_: Python, Javascript, CSS, React, Flask 
+_**Tools**_: Python, Javascript, CSS, React, Flask <br />
 
-**Web Application - Python, Javascript, CSS, React, Flask**
-
-<img width="400" alt="Screen Shot 2023-01-20 at 10 21 10 AM" src="https://user-images.githubusercontent.com/67944800/214330280-93545534-3546-4fb9-af83-986c1ac6a820.png">
+<img width="459" alt="Screen Shot 2024-01-04 at 6 28 39 PM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/22d8967d-9f56-4e94-b4c6-03c7554bef19">
+ <br />
 
 
 ## Datasets
@@ -18,17 +17,16 @@ _**Tools**_: Python, Javascript, CSS, React, Flask
 ## Exploratory Data Analysis
 ____**Word Frequency of each dataset**____<br />
 
-**Gossip Cop Dataset** 
+**Gossip Cop Dataset** <br />
+<img width="400" alt="Screen Shot 2024-01-04 at 6 24 03 PM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/b11158e7-35aa-48ab-9fba-5a01bc5ac16c"> <br />
+<img width="400" alt="Screen Shot 2024-01-04 at 6 23 47 PM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/b3f2e67d-daba-43e5-8415-309ec39eec62"> <br />
 
-<img width="400" alt="Screen Shot 2023-12-20 at 2 57 35 AM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/3a5ac8b9-70de-4dcd-b1cd-acdc5e8f02a4">
-<img width="400" alt="Screen Shot 2023-12-20 at 2 58 10 AM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/847bbc3f-4e06-49bb-b906-704c5d5d9934">
 
+**Politifact Dataset** <br />
+<img width="400" alt="Screen Shot 2024-01-04 at 6 24 59 PM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/bfca2135-5c86-4388-b1ef-b1630f059c23"><br />
+<img width="400" alt="Screen Shot 2024-01-04 at 6 25 21 PM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/170890fc-6d4a-4d6d-b9c8-3427d60c8428"><br />
 
-**Politifact Dataset** 
-
-<img width="400" alt="Screen Shot 2023-12-20 at 2 58 33 AM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/7a854190-fd8a-4c66-ad20-c02471b721eb">
-<img width="400" alt="Screen Shot 2023-12-20 at 2 58 43 AM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/d5ec138c-5bb5-4788-aa79-d033d9caafad">
-
+<img width="400" alt="Screen Shot 2024-01-04 at 6 25 41 PM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/7c5a5ab9-f256-465a-b2f9-e2ad75a212aa">
 
 ## Methods
 ____**Feature Engineering**____<br />
@@ -77,6 +75,10 @@ ____________________________________________________
   -**Multinomial Naive Bayes** achieved the best performance (High Recall and F1). <br>
   -**XGBoost** worst performance (XGBosst requires large amount of data, and works best with high dimensional data)
   
+____________________________________________________
+## Web Application 
+
+<img width="400" alt="Screen Shot 2023-01-20 at 10 21 10 AM" src="https://user-images.githubusercontent.com/67944800/214330280-93545534-3546-4fb9-af83-986c1ac6a820.png">
 
 __________________________________________________________________________
 ## Previous Result
