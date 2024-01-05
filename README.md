@@ -15,7 +15,7 @@ _**Tools**_: Python, Javascript, CSS, React, Flask <br />
 * _**gossipcop_real.csv**_ - 16817 real news collected from GossipCop
 
 ## Exploratory Data Analysis
-____**Word Frequency of each dataset**____<br />
+* _**Word Frequency of the Dataset**_<br />
 
 **Gossip Cop Dataset** <br />
 <img width="542" alt="Screen Shot 2024-01-04 at 6 39 46 PM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/b8ec6a70-ad7b-4c35-859e-df88a003bb93"><br />
@@ -23,16 +23,17 @@ ____**Word Frequency of each dataset**____<br />
 **Politifact Dataset** <br />
 <img width="543" alt="Screen Shot 2024-01-04 at 6 40 08 PM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/cfcba6d8-e34e-4454-8eda-e4124ebc0a94"> <br />
 
+* _**Word Count Distribution**_<br />
 <img width="400" alt="Screen Shot 2024-01-04 at 6 25 41 PM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/7c5a5ab9-f256-465a-b2f9-e2ad75a212aa">
 
 ## Methods
-____**Feature Engineering**____<br />
+_**Feature Engineering**_<br />
 - Update Soon
   
-____**TF-IDF**____<br />
+_**TF-IDF**_<br />
 * Transforms text into a meaningful representation of numbers while removing stopwords.
 
-__**Synthetic Minority Over-Sampling Technique (SMOTE)**__<br />
+_**Synthetic Minority Over-Sampling Technique (SMOTE)**_<br />
 * Oversample minority class to tweak the model <br />
 (reduce False Negatives, at the cost of increasing False Positives).<br /> 
 The result is generally an increase in recall, at the cost of lower precision.
@@ -40,18 +41,18 @@ The result is generally an increase in recall, at the cost of lower precision.
 * Before SMOTE, the model was good at detecting real news (high True Positive rate),<br /> 
 while performing poorly at detecting fake news (low True Negative rate).<br /> 
 
-__**Naive Bayes**__<br />
+_**Naive Bayes**_<br />
 * Based on the Bayes Theorem widely used for classification and NLP tasks.
 
-__**Logistic Regression**__<br />
+_**Logistic Regression**_<br />
 * Used for modeling the probability of a discrete outcome given an input variable.
 
-__**Support Vector Machine**__<br />
+_**Support Vector Machine**_<br />
 * Finds a hyperplane in an N-dimensional space (# of features) that  <br />
 distinctly classifies the data points.<br /> 
 Computationally intensive and works better on small data with large features.
 
-__**XGBoost**__<br />
+_**XGBoost**_<br />
 * Based on the gradient-boosted trees algorithm which predicts a target variable  <br />
 by combining the estimates of a set of simpler models.
 
@@ -76,9 +77,8 @@ ____________________________________________________
 __________________________________________________________________________
 ## Previous Result
 * Best Performing Models: Logistic Regression and Naive Bayes
-* F1 score improved from **0.63 to 0.65**.
-
-* Confusion Matrix - Before and After SMOTE
+* F1 score improved from **0.63 to 0.65**. <br />
+**Confusion Matrix - Before and After SMOTE**
 <img width="419" alt="Screen Shot 2023-10-31 at 8 09 50 PM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/2397b3aa-c612-42d7-9caa-ad729ce65374">
 
 **Performance of This Project**<br />
