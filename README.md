@@ -38,23 +38,25 @@ _**Synthetic Minority Over-Sampling Technique (SMOTE)**_<br />
 (reduce False Negatives, at the cost of increasing False Positives).<br /> 
 The result is generally an increase in recall, at the cost of lower precision.
 
-* Before SMOTE, the model was good at detecting real news (high True Positive rate),<br /> 
-while performing poorly at detecting fake news (low True Negative rate).<br /> 
+* Before SMOTE, the model was good at detecting real news (high True Positives),<br /> 
+while performing poorly at detecting fake news (low True Negatives).<br /> 
 
 _**Naive Bayes**_<br />
-* Based on the Bayes Theorem widely used for classification and NLP tasks.
+* Based on conditional probability (Bayes Theorem), probability of an event <br />
+occurring given another event already happened, and assumes all features equally <br />
+affect the outcome.
 
 _**Logistic Regression**_<br />
-* Used for modeling the probability of a discrete outcome given an input variable.
+* Models the probability of a discrete outcome given input variables.
 
 _**Support Vector Machine**_<br />
-* Finds a hyperplane in an N-dimensional space (# of features) that  <br />
-distinctly classifies the data points.<br /> 
+* Finds a hyperplane in an N-dimensional space (# of features)  <br />
+that distinctly classifies the data points.<br /> 
 Computationally intensive and works better on small data with large features.
 
 _**XGBoost**_<br />
-* Based on the gradient-boosted trees algorithm which predicts a target variable  <br />
-by combining the estimates of a set of simpler models.
+* Based on the gradient-boosted trees algorithm which predicts <br />
+a target variable by combining the estimates of a set of simpler models.
 
 ____________________________________________________
 ## Result - Updated Dec 2023
@@ -62,16 +64,13 @@ ____________________________________________________
 * Cross Validation to evaluate model performance
 
 * **Improved performance**  
-  <img width="700" alt="Screen Shot 2023-12-20 at 4 47 45 PM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/289542f6-4c0d-443b-9704-0fe567363884">
-
-* **Analysis** <br>
-  Achieved a **32%** increased F1 score from the project's previous performance   <br>
-  **Best Performance:** Multinomial Naive Bayes (Higher Recall and F1) <br>
-  **Worst Performance:** XGBoost (works best with high dimensional and large data)
+  <img width="700" alt="Screen Shot 2023-12-20 at 4 47 45 PM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/289542f6-4c0d-443b-9704-0fe567363884"><br>
+Achieved a **32%** increased F1 score from the project's previous performance <br>
+**Best Performance:** Multinomial Naive Bayes (Higher Recall and F1) <br>
+**Worst Performance:** XGBoost (works best with high dimensional and large data)
   
 ____________________________________________________
 ## Web Application 
-
 <img width="400" alt="Screen Shot 2023-01-20 at 10 21 10 AM" src="https://user-images.githubusercontent.com/67944800/214330280-93545534-3546-4fb9-af83-986c1ac6a820.png">
 
 __________________________________________________________________________
