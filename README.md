@@ -24,7 +24,7 @@ _**Tools**_: Python, Javascript, CSS, React, Flask <br />
 <img width="543" alt="Screen Shot 2024-01-04 at 6 40 08 PM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/cfcba6d8-e34e-4454-8eda-e4124ebc0a94"> <br />
 
 * _**Word Count Distribution**_<br />
-<img width="400" alt="Screen Shot 2024-01-04 at 6 25 41 PM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/7c5a5ab9-f256-465a-b2f9-e2ad75a212aa">
+<img width="400" alt="Screen Shot 2024-01-06 at 12 52 19 AM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning-Updated-Jan-24-/assets/67944800/a6b52cf3-c048-485b-abe5-f74a71488984">
 
 ## Methods
 _**Feature Engineering**_<br />
