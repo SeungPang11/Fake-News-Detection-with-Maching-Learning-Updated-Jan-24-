@@ -26,6 +26,11 @@ _**Tools**_: Python, Javascript, CSS, React, Flask <br />
 * _**Word Count Distribution**_<br />
 <img width="400" alt="Screen Shot 2024-01-06 at 12 52 19 AM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning-Updated-Jan-24-/assets/67944800/a6b52cf3-c048-485b-abe5-f74a71488984">
 
+![Fake News Detection EDA Analysis](https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning-Updated-Jan-24-/assets/67944800/80c0146a-246a-48b3-aef0-98a1944f1076)
+
+
+
+
 ## Methods
 _**Feature Engineering**_<br />
 - Update Soon
