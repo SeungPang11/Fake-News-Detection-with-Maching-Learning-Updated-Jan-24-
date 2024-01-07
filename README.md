@@ -33,10 +33,10 @@ _**Tools**_: Python, Javascript, CSS, React, Flask <br />
 
 ## Methods
 _**Feature Engineering**_<br />
-- Update Soon
-  
-_**TF-IDF**_<br />
-* Transforms text into a meaningful representation of numbers while removing stopwords.
+* **Word Count**: The number of words in news titles. <br>
+* **Retweet Count**: The number of times in news has been tweeted/ retweeted. <br>
+* **TF-IDF**: Transform text into a representation of numbers while removing stopwords. <br>
+* **Sentiment**: Emotional tone of news (Polarity [-1,1], Sensitivity [0,1]) <br>
 
 _**Synthetic Minority Over-Sampling Technique (SMOTE)**_<br />
 * Oversample minority class to tweak the model <br />
@@ -64,15 +64,16 @@ _**XGBoost**_<br />
 a target variable by combining the estimates of a set of simpler models.
 
 ____________________________________________________
-## Result - Updated Dec 2023
+## Result - Updated Jan 2024
 * Updated text pre-processing to better remove emojis, URLs, and special characters <br>
-* Cross Validation to evaluate model performance
-
+* Cross Validation to evaluate model performance <br>
 * **Improved performance**  
-  <img width="700" alt="Screen Shot 2023-12-20 at 4 47 45 PM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/assets/67944800/289542f6-4c0d-443b-9704-0fe567363884"><br>
-Achieved a **32%** increased F1 score from the project's previous performance <br>
-**Best Performance:** Multinomial Naive Bayes (Higher Recall and F1) <br>
-**Worst Performance:** XGBoost (works best with high dimensional and large data)
+<img width="700" alt="Screen Shot 2024-01-06 at 7 09 30 PM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning-Updated-Jan-24-/assets/67944800/0dc09df2-45a4-4429-afbb-6c92c013e94d"><br>
+ -Achieved a **significantly improved F1** score from previous performance <br>
+ -**Recall is more important** than Precision (Classifying Fake News as Real News is worse)<br>
+ -**Best Performance:** Bernoulli Naive Bayes (Higher Recall and F1) <br>
+ -**Worst Performance:** SVM (works best with high dimensional and large data) <br>
+  and computationally intensive
   
 ____________________________________________________
 ## Web Application 
