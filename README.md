@@ -67,6 +67,7 @@ ____________________________________________________
 ## Result - Updated Jan 2024
 * Updated text pre-processing to better remove emojis, URLs, and special characters <br>
 * Cross Validation to evaluate model performance <br>
+* Tested oversampling minority class & undersampling majority class <br>
 * **Improved performance**  
 <img width="700" alt="Screen Shot 2024-01-06 at 7 09 30 PM" src="https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning-Updated-Jan-24-/assets/67944800/0dc09df2-45a4-4429-afbb-6c92c013e94d"><br>
  -Achieved a **significantly improved F1** score from previous performance <br>
