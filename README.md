@@ -73,7 +73,7 @@ ____________________________________________________
  -Achieved a **significantly improved F1** score from previous performance <br>
  -**Recall is more important** than Precision (Classifying Fake News as Real News is worse)<br>
  -**Best Performance:** Bernoulli Naive Bayes (Higher Recall and F1) <br>
- -**Worst Performance:** SVM (works best with high dimensional and large data) <br>
+ -**Worst Performance:** SVM (works best with high dimensional small data) <br>
   and computationally intensive
   
 ____________________________________________________
