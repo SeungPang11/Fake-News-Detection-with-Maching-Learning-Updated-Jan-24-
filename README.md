@@ -37,6 +37,7 @@ _**Feature Engineering**_<br />
 * **Retweet Count**: The number of times in news has been tweeted/ retweeted. <br>
 * **TF-IDF**: Transform text into a representation of numbers while removing stopwords. <br>
 * **Sentiment**: Emotional tone of news (Polarity [-1,1], Sensitivity [0,1]) <br>
+* **Scaling**: [MaxAbsScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MaxAbsScaler.html) is applied for sparse CSR matrix <br>
 
 _**Synthetic Minority Over-Sampling Technique (SMOTE)**_<br />
 * Oversample minority class to tweak the model <br />
