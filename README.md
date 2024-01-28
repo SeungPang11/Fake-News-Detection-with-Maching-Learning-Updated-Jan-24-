@@ -6,7 +6,7 @@ _**Tools**_: Python, Javascript, CSS, React, Flask <br />
  <br />
 
 
-## Datasets
+## Datasets 
 **[Fake News Net](https://github.com/KaiDMML/FakeNewsNet)** <br />
 
 * _**politifact_fake.csv**_ - 432 fake news collected from Politifact 
